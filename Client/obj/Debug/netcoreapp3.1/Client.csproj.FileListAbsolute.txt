@@ -1,0 +1,13 @@
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\repos\TcpTraining\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\repos\TcpTraining\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
